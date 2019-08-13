@@ -1,0 +1,17 @@
+{
+  "name": "relationship-ai-markup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 3000 watch index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.22.9"
+  }
+}
