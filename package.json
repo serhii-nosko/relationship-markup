@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel -p 3000 watch index.html",
-    "build": "parcel build index.html --public-url ./"
+    "start": "parcel -p 3000 watch not-found.html",
+    "build": "parcel build index.html not-found.html --public-url ./"
   },
   "author": "",
   "license": "ISC",
